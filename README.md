@@ -9,7 +9,7 @@
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Ajmathews11&show_icons=true&theme=tokyonight" />
 
-I'm a **SDET Tech Lead** passionate about creating efficient solutions. When I'm not coding, you'll find me sketching, watching anime, or playing basketball! 🏀
+I'm a **Software Development Engineer in Test** passionate about creating efficient solutions. When I'm not coding, you'll find me sketching, watching anime, or playing basketball! 🏀
 
 ### 🎯 Current Focus
 - 🤖 Building automation solutions
